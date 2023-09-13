@@ -30,3 +30,5 @@ After activating the virtual environment, install the project dependencies using
 ```
 pip install -r requirements.txt
 ```
+
+Recreate this project by reading this [Medium article](https://medium.com/@nekembeb/coding-know-the-world-educative-game-using-python-turtle-module-878a895929e0)
